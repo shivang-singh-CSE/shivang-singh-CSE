@@ -61,17 +61,6 @@ I'm a Computer Engineering student who likes building things end-to-end — from
 
 ## Featured Projects
 
-<div align="center">
-
-<a href="https://github.com/shivang-singh-CSE/skillpath-ai">
-  <img src="https://github-readme-stats.vercel.app/api/pin/?username=shivang-singh-CSE&repo=skillpath-ai&theme=tokyonight&hide_border=true" />
-</a>
-<a href="https://github.com/shivang-singh-CSE/pqtunnel">
-  <img src="https://github-readme-stats.vercel.app/api/pin/?username=shivang-singh-CSE&repo=pqtunnel&theme=tokyonight&hide_border=true" />
-</a>
-
-</div>
-
 | Project | What it does | Stack |
 |---|---|---|
 | **[SkillPath AI](https://github.com/shivang-singh-CSE/skillpath-ai)** | AI-driven adaptive learning-path engine — analyzes skill gaps against an O*NET-inspired taxonomy and orders a personalized curriculum with a NetworkX DAG + topological sort. | React, FastAPI, NetworkX, Groq LLM |
