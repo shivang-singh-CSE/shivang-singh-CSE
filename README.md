@@ -10,7 +10,7 @@
 
 <br/>
 
-## About Me
+## About Me;;
 
 I'm a Computer Engineering student who likes building things end-to-end — from the UI down to the protocol layer. My projects range from applied AI (adaptive learning paths, misinformation detection) to low-level systems work (post-quantum secure tunnels, authentication services). I care about writing code that's correct, secure, and actually ships.
 
